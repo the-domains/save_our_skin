@@ -1,0 +1,23 @@
+name: save_our_skin
+favicon: null
+layout_spectrum: 0.5286577946972102
+typography_spectrum: 0.9956941076088697
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7932031170930713
+  lightness: 0.07029555458575487
+  saturation: 0.4141538646072149
+  rhythmicContrast: 0.9095562002621591
+purpose: []
